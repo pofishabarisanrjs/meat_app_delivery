@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228506792436",
+    "project_id": "hyfi-6efa6",
+    "storage_bucket": "hyfi-6efa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228506792436:android:7e4b9bb009fbeae2f309a1",
+        "android_client_info": {
+          "package_name": "com.deapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WJspf4vTammEHQ0kChjzVm6h_-ml7Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
